@@ -1,0 +1,20 @@
+# Binaries
+verity
+*.exe
+dist/
+*.out
+
+# Go
+*.test
+*.prof
+go.sum
+
+# Config
+.verity.yaml
+.env
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
